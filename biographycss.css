@@ -1,0 +1,48 @@
+*{
+	box-sizing: border-box;
+	padding-left: 1.5%;
+	padding-right: 1.5%;
+}
+
+body{
+	margin: 0;
+	width: 100%;
+	background-color: whitesmoke;
+	color: black;
+	font-family: sans-serif;
+	overflow-x: hidden;
+}
+main{
+	background-color: grey;
+	border: groove;
+	
+}
+h1{
+	text-align: center;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 5em;
+}
+img{
+	width: 30%;
+	height: 15%;
+	float: left;
+}
+#headings{
+	clear: left;
+
+}
+
+#container{
+	margin: 10%;
+}
+
+ul{
+	margin: 7%;
+	list-style-position: inside;
+	list-style-type: circle;
+}
+
+#data{
+	clear: left;
+}
